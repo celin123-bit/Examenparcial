@@ -1,0 +1,9 @@
+# Examen Parcial
+
+## Cómo correr el proyecto
+
+1. Clona el repositorio a tu máquina local:
+2. Navega a la carpeta del proyecto:
+3. Instala las dependencias:
+4. Corre el proyecto:
+5. El servidor debería estar corriendo en `http://localhost:8081` por defecto.
